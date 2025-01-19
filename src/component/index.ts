@@ -1,0 +1,10 @@
+export {default as IndicatorCard} from './card/indicatorCard.component';
+export {default as Historical} from './list/historical/historical.component';
+export {default as DateHumanize} from './text/dateHumanize.component';
+export {default as IndicatorValueCard} from './card/indicatorValueCard.component';
+export {default as HistoricalGraph} from './graph/historicalGraph.component';
+export {default as CardSlyle} from './card/default/card.component';
+export {default as BackButton} from './button/back-button/backButton.component';
+export {default as Variation} from './text/variation.component';
+export {default as GraphLegend} from './text/graphLegend.component';
+export {default as GeoButton} from './button/geo-button/geoButton.component';
